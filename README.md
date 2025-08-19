@@ -51,7 +51,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-00fff7?style=for-the-badge&logo=linkedin&logoColor=ff00ea)](https://www.linkedin.com/in/alan-cyril-33aa8178/)
 [![Email](https://img.shields.io/badge/Email-ftgxander%40atomicmail.io-ff00ea?style=for-the-badge&logo=gmail&logoColor=00fff7)](mailto:ftgxander@proton.me)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00fff7?style=for-the-badge&logo=about-dot-me&logoColor=ff00ea)](https://alan-cyril-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00fff7?style=for-the-badge&logo=about-dot-me&logoColor=ff00ea)](https://kulangarok.vercel.app/)
 
 ---
 
